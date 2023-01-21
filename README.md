@@ -1,0 +1,2 @@
+Environment variables
+GOOGLE_APPLICATION_CREDENTIALS
